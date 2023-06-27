@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "pagina figma",
+  "steps": [
+    {
+      "file": "punto-1-3/index.html",
+      "description": "Para recordar: <p>Usas para párrafos muy largos y <span> para textos más cortitos",
+      "line": 36
+    }
+  ],
+  "ref": "master"
+}
