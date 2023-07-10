@@ -1,0 +1,47 @@
+a{
+    font-family: 'Jost';
+    font-size: 18px;
+}
+
+button {
+    font: 'Jost';
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 10px 25px;
+}
+
+.header__settings button {
+    background-color: transparent;
+    color: #454868;
+    border: 1px solid #454868;
+}
+
+.button--orange {
+    background-color: #FD909E;
+    color: #FFFF;
+    border: 1px solid #FD909E;
+}
+
+p{
+    margin: 5px;
+    color: #454868;
+    font-family: 'Jost';
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+
+
+h2{
+    margin: 0px;
+    font-family: 'Jost';
+    font-size: 58px;
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: -2.32px;
+}
+
+body{
+    margin: 0px;
+}

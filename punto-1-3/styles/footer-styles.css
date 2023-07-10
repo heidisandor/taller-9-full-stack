@@ -1,0 +1,55 @@
+#footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin top: 120px;
+    padding: 40px 100px;
+    background-color: #010851;
+    color: #fff; 
+}
+
+.footer__info{
+    width: 35%;
+
+}
+
+input{
+    width 400px;
+    padding: 12px 20px;
+    margin-right: - 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: #45486899;
+}
+
+
+.button--pink{
+    background-color: #ED80FD;
+    color: #fff;
+    border: none;
+}
+
+table{
+    
+    margin: auto;
+    padding: px;
+    font-family: 'Jost';
+    text-align: left;
+
+}
+
+tr{
+    
+    height: 60px;
+}
+
+td{
+    
+    padding-right: 50px;
+}
+
+td a {
+
+    color: #fff;
+}
