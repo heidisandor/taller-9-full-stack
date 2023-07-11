@@ -32,14 +32,13 @@ p{
     
 }
 
-
 h2{
-    margin: 0px;
+    margin: 5px 0px;
     font-family: 'Jost';
-    font-size: 58px;
-    font-weight: bold;
-    line-height: normal;
-    letter-spacing: -2.32px;
+    font-size: 48px;
+    color:#454868;
+    line-height: 55px;
+    letter-spacing: -0.64px;
 }
 
 body{
