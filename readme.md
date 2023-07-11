@@ -13,3 +13,18 @@
 
 <h2> Punto 3: CSS </h2>
 <img src="./public/images/css.png" alt="css">
+
+<h2> Punto 4: CSS </h2>
+<img src="./public/images/punto-4.png" alt="punto-4">
+
+<h2> Punto 5: CSS </h2>
+<img src="./public/images/css.png" alt="css">
+
+<h2> Punto 6: CSS </h2>
+<img src="./public/images/css.png" alt="css">
+
+<h2> Punto 7-8: CSS </h2>
+<img src="./public/images/css.png" alt="css">
+
+<h2> Punto 9: CSS </h2>
+<img src="./public/images/css.png" alt="css">

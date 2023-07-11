@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(red,blue);
+}
+
+h1{
+    margin: 400px;
+    font-family: Cambria ;
+    font: bold;
+    text-align: center;
+
+}
+
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.blue:hover {
+    color: red;
+  }
+
+.red:hover {
+    color: blue;
+  }
