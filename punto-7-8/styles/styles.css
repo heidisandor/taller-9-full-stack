@@ -1,0 +1,23 @@
+div{
+    padding: 10px;
+    background-color: #2eedd6;
+    margin 0px;
+}
+
+table {
+    font-family: Helvetica;
+    background-color:#2eedd6;
+    text-align: center;
+}
+
+th{
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+
+}
+
+th:hover{
+    background-color: #2f0f86;
+    color: white;
+}
