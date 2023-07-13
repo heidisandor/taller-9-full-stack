@@ -1,7 +1,10 @@
+body{
+    margin: 0px;
+}
+
 div{
     padding: 10px;
     background-color: #2eedd6;
-    margin 0px;
 }
 
 table {
