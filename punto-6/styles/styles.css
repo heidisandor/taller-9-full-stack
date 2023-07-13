@@ -1,0 +1,34 @@
+body{
+    font-family: Verdana;
+}
+
+p{
+    font-size: 40px;
+}
+
+a.yellow:link {
+    color: yellowgreen
+}
+
+a.yellow:visited{
+    color: rgb(165, 19, 138)
+}
+
+a.yellow:hover{
+    font-size: 50px;
+}
+
+
+a.purple:link{
+    color: #8a2be2;
+}
+
+a.purple:visited{
+    color: #ec0657;
+}
+
+a.purple:hover{
+
+    color: white;
+    background-color:#ec0657;
+}
