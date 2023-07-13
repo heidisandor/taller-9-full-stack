@@ -1,0 +1,20 @@
+.green{
+    color: green;
+}
+
+.red{
+    color: red;
+}
+
+.underover{
+    text-decoration: underline overline;
+}
+
+.oversize{
+    font-size: 30px;
+}
+
+.blue{
+    color: blue;
+}
+
