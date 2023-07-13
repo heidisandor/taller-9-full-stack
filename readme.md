@@ -18,7 +18,7 @@
 <img src="./public/images/punto-4.png" alt="punto-4">
 
 <h2> Punto 5: CSS </h2>
-<img src="./public/images/css.png" alt="css">
+<img src="./public/images/punto-5.png" alt="punto-5">
 
 <h2> Punto 6: CSS </h2>
 <img src="./public/images/css.png" alt="css">
