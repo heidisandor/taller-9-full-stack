@@ -1,0 +1,28 @@
+table{
+    background-color: yellowgreen;
+    font-family: Helvetica;
+    text-align: left;
+    margin: 50px 120px;
+    padding: 0px;
+    border-collapse: collapse;
+    border-left: 2px dotted black;
+    border-right: 2px dotted black;
+}
+
+th{
+    font-style: italic;
+    color: blue;
+    text-align: center;
+    border-bottom: 2px dotted black;
+    border-top: 2px dotted black;
+}
+
+td{
+    text-align: left;
+    border: 2px dotted black;
+
+}
+
+td.text{
+    text-align: left;
+}
