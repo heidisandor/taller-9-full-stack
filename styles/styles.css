@@ -49,8 +49,8 @@ body {
   
   a {
     padding: 12px 25px;
-    color: #ffffff;
-    background-color: #fd8f54e2;
+    color: #000;
+    background-color: #5efb73e2;
     border: none;
     border-radius: 5px;
     font-family: system-ui, -apple-system;
@@ -61,5 +61,6 @@ body {
   }
   
   a:hover {
-    background-color: #e87537e2;
+    color: #ffff;
+    background-color: #407b48e2;
   }
